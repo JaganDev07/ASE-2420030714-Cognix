@@ -1,2 +1,0 @@
-This is a sample plain-text file.
-It contains dummy content for testing file previews.

@@ -1,4 +1,0 @@
-services:
-  app:
-    image: node:22
-    command: node index.js

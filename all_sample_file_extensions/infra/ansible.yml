@@ -1,4 +1,0 @@
-- name: Sample playbook
-  hosts: localhost
-  tasks:
-    - debug: msg="Hello"

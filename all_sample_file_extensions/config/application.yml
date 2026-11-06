@@ -1,5 +1,0 @@
-app:
-  name: SampleApp
-  version: 1.0.0
-server:
-  port: 8080

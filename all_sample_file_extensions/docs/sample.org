@@ -1,3 +1,0 @@
-* Sample Org Document
-
-This is Org-mode content.
